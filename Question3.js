@@ -2,8 +2,6 @@
  * Returns two biggest values of passed Number of array.
  * Sorts the array(ascending), then returns last 2 item of sorted array.
  * @param {Array} items, Number array to be passed in.
- * 
- * 
  */
 function getTwoBiggest(items) {    
     // Check all items is Number or not
