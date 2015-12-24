@@ -22,7 +22,7 @@ For creating random values we are using Math.random() method in javascript. This
 * Sum of probabilities equals (0.15 + 0.20 + 0.25 + 0.40) 1
 
 ### Run
-It's global in probability.js, can be used directly calling random() in browser or in node.js like
+It's global in Question1.js, can be used directly calling random() in browser or in node.js like
 ``` javascript
 var random = require('./Question1');
 console.log(random());
@@ -52,7 +52,7 @@ var fibonacci = function(n){
 }
 ```
 ### Run
-It's global in probability.js, can be used directly calling fibonacci() in browser or in node.js like
+It's global in Question2.js, can be used directly calling fibonacci() in browser or in node.js like
 ``` javascript
 var fibonacci = require('./Question2');
 console.log(fibonacci(0));
